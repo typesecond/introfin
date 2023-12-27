@@ -8,3 +8,4 @@ print(tsla.info)
 
 
 print(tsla.quarterly_income_stmt)
+print(tsla.mutualfund_holders)
