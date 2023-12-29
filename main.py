@@ -10,3 +10,4 @@ print(tsla.info)
 print(tsla.quarterly_income_stmt)
 print(tsla.mutualfund_holders)
 print(tsla.cash_flow)
+#hedge pop? 
