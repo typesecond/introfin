@@ -12,4 +12,3 @@ print(tsla.mutualfund_holders)
 print(tsla.cash_flow)
 #hedge pop? 
 
-# cash flow neutral
