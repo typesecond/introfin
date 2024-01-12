@@ -16,7 +16,7 @@ hol = tsla.earnings_dates
 print(hol) 
 # spread soon
 # buttefly implementation
-
+# spread work? 
 nol = tsla.actions
 tol = tsla.calendar
 sol = tsla.fast_info
