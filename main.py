@@ -12,7 +12,7 @@ print(tsla.mutualfund_holders)
 print(tsla.cash_flow)
 #hedge pop? 
 hol = tsla.earnings_dates
-# jj
+# jj intel
 print(hol) 
 # spread soon
 # buttefly implementation
