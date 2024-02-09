@@ -20,4 +20,4 @@ print(hol)
 nol = tsla.actions
 tol = tsla.calendar
 sol = tsla.fast_info
-# wait f hold
+# wait delt hold
