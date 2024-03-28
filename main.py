@@ -18,7 +18,7 @@ print(hol)
 # buttefly implementation
 # spread work? 
 nol = tsla.actions
-
+tol = tsla.basic_info
 sol = tsla.fast_info
 
 
