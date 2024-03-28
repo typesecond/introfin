@@ -18,6 +18,6 @@ print(hol)
 # buttefly implementation
 # spread work? 
 nol = tsla.actions
-tol = tsla.calendar
+
 sol = tsla.fast_info
 # wait delt hold
