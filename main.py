@@ -20,4 +20,5 @@ print(hol)
 nol = tsla.actions
 
 sol = tsla.fast_info
-# wait delt hold
+
+
